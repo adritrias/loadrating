@@ -131,6 +131,7 @@ function Mr = calculateLTBMoment(s)
     % Define variables
     dcNC = s.dcNC;
     tw = s.tw;
+    dw = s.dw;
     Fy = s.Fy;
     Iyc = s.Iyc;
     Lb = s.Lb;
